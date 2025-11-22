@@ -1,4 +1,4 @@
-# Local Eth node
+# Local Multi-RPC Ethereum Node
 
 Below setup provides **3 RPC endpoints** running at (ports 8545, 8546, 8547) all sharing  **same Anvil ETH state**.
 
